@@ -8,7 +8,7 @@ const About: React.FC = () => {
         <section id="about" className="py-20 md:py-32 bg-black">
             <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-12 gap-12 md:gap-16">
                 <div className="md:col-span-7">
-                    <SectionTitle title="Profile" subtitle="Senior VFX TD" />
+                    <SectionTitle title="Profile" subtitle="" />
                     <p className="text-2xl md:text-3xl text-zinc-300 font-light leading-snug mb-8 md:mb-12 serif italic">
                         Pushing boundaries of photorealism through advanced compositing.
                     </p>
