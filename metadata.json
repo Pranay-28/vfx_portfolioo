@@ -1,0 +1,7 @@
+{
+  "name": "Cinematic VFX Portfolio",
+  "description": "A minimalist, dark-themed professional portfolio for VFX artists, featuring high-quality galleries, showreel highlights, and AI-powered technical breakdowns.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
