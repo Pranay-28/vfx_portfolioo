@@ -95,7 +95,7 @@ export const PROJECTS: Project[] = [
     beforeThumbnail: '/Jaguar_Before.png',
     // videoUrl: '/Jaguar.mp4',
     youtubeId: 'X8erVBb7qvg',
-    description: 'A high-stakes shootout featuring integrated muzzle flashes, realistic blood hits.',
+    description: '',
     software: ['After Effects', 'Da vinci Resolve'],
     year: '2025'
   },
@@ -107,7 +107,7 @@ export const PROJECTS: Project[] = [
     beforeThumbnail: '/Girl_Before.png',
     // videoUrl: '/Jaguar.mp4',
     youtubeId: 'JivWMDyr7L0',
-    description: 'A high-stakes shootout featuring integrated muzzle flashes, realistic blood hits.',
+    description: '',
     software: ['After Effects', 'Da vinci Resolve'],
     year: '2025'
   },
